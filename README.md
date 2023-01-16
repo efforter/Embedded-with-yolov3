@@ -61,8 +61,8 @@
 # Tools & Environment
 |Board|Camera||OS|Algorithm|
 |------|---|---|---|---|
-|<image src="https://user-images.githubusercontent.com/95682287/212259117-18ee7da9-286b-419e-b382-c2d005267e08.png" width="250px" height="50%">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<image src="https://user-images.githubusercontent.com/95682287/212260296-59a5d3f4-25b0-4983-b01f-13ae473ea0f4.png" width="100px" height="300px" display="block">|&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;&nbsp;|<image src="https://user-images.githubusercontent.com/95682287/212258548-ebbaf589-144b-425d-a449-3ac2aa1a3941.png" width="200px" height="50%">|<image src="https://user-images.githubusercontent.com/95682287/212258451-7a96f83f-e782-41d9-b764-0a3d2a994c42.png" width="200px" height="50%">|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NVIDIA Jetson Nano B01|Raspberry Camera V2||&nbsp;&nbsp;&nbsp;&nbsp;Linux Ubuntu 20.04 LTS|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yolov3 & darknet
+|<image src="https://user-images.githubusercontent.com/95682287/212259117-18ee7da9-286b-419e-b382-c2d005267e08.png" width="250px" height="50%">|<image src="https://user-images.githubusercontent.com/95682287/212260296-59a5d3f4-25b0-4983-b01f-13ae473ea0f4.png" width="100px" height="300px" display="block">|&|<image src="https://user-images.githubusercontent.com/95682287/212258548-ebbaf589-144b-425d-a449-3ac2aa1a3941.png" width="200px" height="50%">|<image src="https://user-images.githubusercontent.com/95682287/212258451-7a96f83f-e782-41d9-b764-0a3d2a994c42.png" width="200px" height="50%">|
+|NVIDIA Jetson Nano B01|Raspberry Camera V2||Linux Ubuntu 20.04 LTS|yolov3 & darknet
 # Action Process
 ![image](https://user-images.githubusercontent.com/95682287/212267443-3c740fcf-d69a-4e0a-b1d2-3efb03a84aca.png)
 # Flowchart & File Structure
